@@ -1,0 +1,70 @@
+body {
+    margin: 0;
+}
+
+.hero {
+    background-color: gray;
+    height: 550px;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    border-radius: 50px;
+background: #e0e0e0;
+box-shadow:  20px 20px 60px #bebebe,
+             -20px -20px 60px #ffffff;
+}
+.ent-number{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+h1 {
+    font-size: 40px;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    padding-top: 30px;
+}
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.btn-container{
+    display: flex;
+    justify-content: center;
+}
+.display1 {
+    display: flex;
+    justify-content: center;
+}
+.input1{
+    border-radius: 5px;
+    height: 30px;
+    width: 300px;
+}
+.result{
+    font-size: 30px;
+    color: rgb(31, 32, 30);
+    border: solid rgb(64, 64, 93);
+    padding: 20px;
+}
+.ucfrom{
+    border-radius: 5px;
+    height: 150px;
+    width: 300px;
+    margin-right: 30px;
+}
+.ucto{
+    border-radius: 5px;
+    height: 150px;
+    width: 300px;
+}
+.convert {
+    height: 50px;
+    width: 200px;
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 30px;
+}
